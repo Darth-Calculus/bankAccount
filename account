@@ -1,0 +1,11 @@
+public class bankAccount {
+int accountNumber;
+String customerfirstName;
+String customerLastName;
+String ssNumber;
+double balance;
+String email;
+String phoneNumber;
+String addreses;
+
+//will create the constructors soon
